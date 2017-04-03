@@ -6,5 +6,5 @@ This is my public code library. It will primarly be used to test and get to know
 To learn the basics around data analysis with Python, I enrolled on DataQuest where I chose to start with the Data Analyst path.
 
 #### Projects
-- Explore U.S. births [Link to notebook](fredrikgabrielsen.github.io/ExploringUSBirths.ipynb)
-- Exploring gun deaths in the US [Link to notebook will be added soon](#)
+- Explore U.S. births [\[Link to notebook\]](fredrikgabrielsen.github.io/ExploringUSBirths.ipynb)
+- Exploring gun deaths in the US [\[Link to notebook will be added soon\]](#)
