@@ -7,4 +7,4 @@ To learn the basics around data analysis with Python, I enrolled on DataQuest wh
 
 #### Projects
 - Explore U.S. births [\[Link to notebook\]](fredrikgabrielsen.github.io/ExploringUSBirths.ipynb)
-- Exploring gun deaths in the US [\[Link to notebook will be added soon\]](#)
+- Analyzing gun deaths in the US [\[Link to notebook will be added soon\]](fredrikgabrielsen.github.io/AnalyzingGunDeathsInTheUS.ipynb)
