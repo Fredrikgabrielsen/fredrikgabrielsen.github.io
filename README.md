@@ -15,7 +15,7 @@
 - Vinterdress/parkdress str 86/92 (vann- og vindtett)
 - Vanntette votter
 - Gavekort skobutikk
-- Camelbak drikkeflaske med navn [LINK](https://www.barerips.no/categories/camelbak-barn-04)
+- Camelbak drikkeflaske med navn ([LINK](https://www.barerips.no/categories/camelbak-barn-04))
 - Nisteboks
 - Dundyne til sprinkelseng
 - Badetruse str 86
