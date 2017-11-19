@@ -32,6 +32,7 @@
 - Gavekort Skeidar
 - Vannkoker i sort/hvit ([TRYKK HER FOR EKSEMPEL](https://www.clasohlson.com/no/Coline-vannkoker-1,2-liter/44-1296-1))
 - Stretchlaken (150x200)
+- Litt fin termokanne/kaffekanne
 
 ## Charlotte
 - Klippekort/Gavekort på Bøler Bad
