@@ -5,20 +5,18 @@
 - Baby-akebrett
 - Togbane av tre
 - Hjemmestrikket/heklet lue/votter/sokker
-- Bade/dusjstol ([TRYKK HER FOR EKSEMPEL](https://www.jollyroom.no/babyutstyr/baderom/badestoler/thermobaby-badestol-gra))
 - Lekedyr (bondegår)
 - Lekebil
 - Gavekort på Babyshop/Barnas Hus etc
-- Ullbukser str 86
-- Body langermet str 86 (vanlig og ull)
-- Sokker str 22/24
-- Vinterdress/parkdress str 86/92 (vann- og vindtett)
+- Ullbukser str 86/92
+- Body langermet str 86/92 (vanlig og ull)
+- Sokker str 23/27 (antiskli)
 - Vanntette votter
 - Gavekort skobutikk
 - Camelbak drikkeflaske med navn ([LINK](https://www.barerips.no/categories/camelbak-barn-04))
 - Nisteboks
 - Dundyne til sprinkelseng
-- Badetruse str 86
+- Badetruse str 86/92
 - Gyngeleke
 
 ## Felles
@@ -33,6 +31,7 @@
 - Gavekort IKEA
 - Gavekort Skeidar
 - Vannkoker i sort/hvit ([TRYKK HER FOR EKSEMPEL](https://www.clasohlson.com/no/Coline-vannkoker-1,2-liter/44-1296-1))
+- Stretchlaken (150x200)
 
 ## Charlotte
 - Klippekort/Gavekort på Bøler Bad
