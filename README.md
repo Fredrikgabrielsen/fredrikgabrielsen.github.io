@@ -56,7 +56,7 @@
 - Tøydamper (til å dampe/stryke skjorter)
 - Hjemmelaget godis/mat/snacks
 - Pene sko til å gå med på jobb (str 44, evt gavekort)
-- Trådløse propper ([LINK](https://prisguiden.no/produkt/jaybird-sport-x3-283720))
+- Trådløse propper ([LINK](https://prisguiden.no/produkt/jaybird-freedom-f5-270940#anchor-prices))
 - Apple Watch reim 42mm ([LINK](https://www.apple.com/no/shop/product/MLJJ2ZM/A/38-mm-stellarsvart-milanese-loop))
 - Gavekort på Audible.com (Lydbøker på engelsk, [LINK](https://www.audible.com/mt/giftmembership))
 - Gode og pene vanter
