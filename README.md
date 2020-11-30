@@ -4,10 +4,20 @@
 	* Smart-vekt (med wifi) (feks: https://www.elkjop.no/product/styling-og-velvare/badevekt/17009/withings-body-badevekt-witwbs05bk-sort)
 	* Behagelig Apple Watch reim 44/42mm (feks: https://www.komplett.no/product/1139159/mobiler-klokker/tilbehoer-til-smartklokker/reim/apple-watch-44mm-nike-sport-loop)
 	* Løpebelte eller mobilholder på aremen som har plass til en iPhone XS MAX (feks: https://www.tights.no/butikk/miiego-miibelt-lopebelte-midnight-black)
-	* Tefal stekepanne (normal størrelse)
 	* Grytesett/små gryter (spesielt mellom 1 og 2 liter)
-	* Game of Thrones på Blu Ray (spesielt sesong 8)
+	* Game of Thrones på Blu Ray (sesong 8)
 	* 2x Sengesett (220cm)
-	* Tempur pute (trenger ikke være tempur-merket, men denne formen: https://www.life.no/produkter/sovn-beroligende/puter-madrasser/tempur-pute-original-medium
 	* Visp til saus
-	* Liten massasjepute
+	* Liten massasjepute til rygg/nakke
+	* Pysjebukse
+	* Joggebukse/"hjemmekontorklær"
+	* Gavekort på Audible lydbok-abonnement (https://www.audible.com/ep/giftcenter)
+
+# Ønskeliste Nicolai
+	* Klær i størrelse 110
+	* Biler (selvfølgelig..)
+	* Playmobil-ting
+	* Kassa-apparat med liksompenger han kan telle osv
+	* Hama perler (former og perler)
+	* Alt relatert til Brannman Sam eller politi/brannvesen/ambulanser (bilder, teppe, aktivitetshefter
+	* Barnekopp(er), gjerne i plast
